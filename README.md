@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Raks
-- 👀 I’m interested in Programme and machine learning...
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate ...
-- 📫  ...
+# Rahul Sharma a.k.a Rakusho 
 
-<!---
-Rakushooo/Rakushooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+## Hobbies
+- :sweat_smile: Exploring anything that bugs me.
+- :tv: Watching Movies,Tv Series(especially Anime) and Documentaries 
+- :computer: Playing Competitive online games (eg. Chess,Rocket League,Pubg)
+
+## How Do I Stay Motivated towards Development
+
+## Social Websites
